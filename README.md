@@ -1,2 +1,2 @@
 # Guide
-Python Handbook: From Installation to Creating Your Own Project
+[Установка Python](#guide_1.md)
