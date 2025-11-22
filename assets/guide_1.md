@@ -1,1 +1,39 @@
+# Установка
+***
+
+**Для того, чтобы начать писать на python, нужно для начала его установить.**
+
+**Перейдите по ссылке и скачайте сам python: [click](https://www.python.org/downloads/)  
+затем можно скачать самую последнюю версию, либо ту, которая вам удобна.**
+
+![pythonversions.png](assets_img/pythonversions.png)
+
+**В блоке ``Active Python Releases`` выходят самые последние версии, в нижнем блоке - ``старые``**
+
+**После выбора версии, вас встретит вот такой блок с ссылками:**  
+![python3132down.png](assets_img/python3132down.png)
+
+
+**Если у вас ``Windows`` - выбирайте ``Windows installer (32-bit)`` или ``Windows installer (64-bit)``**  
+**После установки открываете файл, затем вас встретит такое окно:**
+![pythonwindowsetup.png](assets_img/pythonwindowsetup.png)
+## Обязательно поставьте галочку в  ``Add python.exe to PATH``
+[а если не поставил?](#Add-python.exe-to-PATH)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Add python.exe to PATH
 
