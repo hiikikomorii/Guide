@@ -65,3 +65,5 @@
 ![peremeniesredi.png](assets_img/peremeniesredi.png)
 
 **теперь все сохраняем и открываем консоль (win + r), затем выполняем [Проверку](#Console-check)**
+
+(назад)[README.md]
