@@ -18,7 +18,7 @@
 **После установки открываете файл, затем вас встретит такое окно:**
 ![pythonwindowsetup.png](assets_img/pythonwindowsetup.png)
 ## Обязательно поставьте галочку в  ``Add python.exe to PATH``
-[а если не поставил?](#Add-python.exe-to-PATH)
+[а если не поставил?](#Add-python-to-PATH)
 
 123
 
@@ -79,7 +79,8 @@
 
 123
 
-## Add python.exe to PATH
+## Add python to PATH
+
 
 
 
