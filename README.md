@@ -1,2 +1,2 @@
 # Guide
-[Установка Python](#guide_1.md)
+[Установка Python](#assets/guide_1.md)
